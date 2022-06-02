@@ -1,0 +1,11 @@
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\bin\Debug\torpedo.exe.config
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\bin\Debug\torpedo.exe
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\bin\Debug\torpedo.pdb
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.csproj.AssemblyReference.cache
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.csproj.SuggestedBindingRedirects.cache
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.Form1.resources
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.Properties.Resources.resources
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.csproj.GenerateResource.cache
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.csproj.CoreCompileInputs.cache
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.exe
+C:\Users\redbu\Desktop\prog\torpedo\torpedo\obj\Debug\torpedo.pdb
